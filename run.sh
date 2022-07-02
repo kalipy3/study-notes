@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./cpolar http 9999 > /dev/null &
+./cpolar http 8081 > /dev/null &
 
 echo "cpolar pid: $!"
 
@@ -10,7 +10,7 @@ echo "reptyr pid: $!"
 
 sleep 10s
 
-node watch.js
+node watch.js > watch.log &
 
 
 #!/bin/bash

@@ -1,1 +1,1 @@
-巨人的肩膀(学习笔记)：https://556ba2f0.cpolar.cn
+巨人的肩膀(学习笔记)：kalipy@debian
