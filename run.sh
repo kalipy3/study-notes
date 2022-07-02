@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm 1.log 2> /dev/null
+
 ./cpolar http 8081 > /dev/null &
 
 echo "cpolar pid: $!"
@@ -64,3 +66,5 @@ node watch.js > /dev/null
 #2
 #b12853
 
+#rm 1.log 2> /dev/null
+#echo "gg" 1> /dev/null
