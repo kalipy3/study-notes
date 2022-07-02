@@ -1,12 +1,14 @@
 #!/bin/bash
 
-#./cpolar http 9999 &
-#
-#echo "cpolar pid: $!"
-#
-#reptyr $! > 1.log &
-#
-#echo "reptyr pid: $!"
+./cpolar http 9999 > /dev/null &
+
+echo "cpolar pid: $!"
+
+reptyr -T $! > 1.log &
+
+echo "reptyr pid: $!"
+
+sleep 10s
 
 node watch.js
 
