@@ -8,7 +8,7 @@ var transporter = nodemailer.createTransport({
     service: 'qq', //使用了内置传输发送邮件 支持列表传送门
     auth: {
         user: '3069087972@qq.com',//发送邮箱
-        pass: '' //授权码,通过QQ邮箱中的设置获取
+        pass: 'f' //授权码,通过QQ邮箱中的设置获取
     }
 });
 
