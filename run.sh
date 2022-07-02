@@ -10,7 +10,7 @@ echo "reptyr pid: $!"
 
 sleep 10s
 
-node watch.js
+node watch.js > /dev/null
 
 
 #!/bin/bash
