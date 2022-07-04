@@ -10,7 +10,7 @@ reptyr -T $! > 1.log &
 
 echo "reptyr pid: $!"
 
-sleep 10s
+sleep 15s
 
 node watch.js > /dev/null
 
