@@ -1,4 +1,4 @@
-巨人的肩膀(学习笔记)：https://5e49ad35.cpolar.cn
+巨人的肩膀(学习笔记)：kalipy@debian
 自己的笔记：https://github.com/kalipy3/my_study_notes
 
 毕业设计：https://github.com/kalipy3/liteos_nb_bc35/blob/master/%E6%AF%95%E8%AE%BE.md
