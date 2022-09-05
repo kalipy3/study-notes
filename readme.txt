@@ -1,3 +1,5 @@
+在线markdown简历: https://github.com/kalipy3/study-notes/blob/master/%E7%AE%80%E5%8E%86.md
+
 巨人的肩膀(整理的学习笔记)：https://2bf6550b.r3.vip.cpolar.cn
 自己的笔记：https://github.com/kalipy3/my_study_notes
 
