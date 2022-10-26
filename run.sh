@@ -2,7 +2,8 @@
 
 rm 1.log 2> /dev/null
 
-./cpolar http 8081 > /dev/null &
+#./cpolar http 8081 > /dev/null &
+./cpolar tcp 22 > /dev/null &
 
 echo "cpolar pid: $!"
 
