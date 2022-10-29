@@ -1,5 +1,6 @@
 1.log
+2.log
 cpolar
 node_modules
-watch.js
+watch_*.js
 *.swp

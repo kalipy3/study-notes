@@ -2,8 +2,7 @@
 
 rm 1.log 2> /dev/null
 
-#./cpolar http 8081 > /dev/null &
-./cpolar tcp 22 > /dev/null &
+./cpolar http 8081 > /dev/null &
 
 echo "cpolar pid: $!"
 
@@ -13,7 +12,7 @@ echo "reptyr pid: $!"
 
 sleep 15s
 
-node watch.js > /dev/null
+node watch_http.js > /dev/null
 
 ###############################################################################
 #a=`./a.out`
