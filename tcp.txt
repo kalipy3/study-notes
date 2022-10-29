@@ -1,0 +1,14 @@
+tcp.txt
+
+:Author: kalipy
+:Email: kalipy@debian
+:Date: 2022-10-29 08:36
+
+Tunnel Status       online                                                                                                
+Account             padndgmcdsy (Plan: Free)                                                                              
+Version             2.86.16/2.96                                                                                          
+Web Interface       127.0.0.1:4040                                                                                        
+Forwarding          tcp://3.tcp.vip.cpolar.cn:10462 -> tcp://127.0.0.1:22                                                 
+# Conn              0                                                                                                     
+Avg Conn Time       0.00ms                                                                                                
+                              

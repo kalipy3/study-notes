@@ -1,0 +1,14 @@
+http.txt
+
+:Author: kalipy
+:Email: kalipy@debian
+:Date: 2022-10-29 08:34
+
+Tunnel Status       online                                                                                                
+Account             padndgmcdsy (Plan: Free)                                                                              
+Version             2.86.16/2.96                                                                                          
+Web Interface       127.0.0.1:4040                                                                                        
+Forwarding          http://1b18b223.r3.vip.cpolar.cn -> http://localhost:8081                                             
+Forwarding          https://1b18b223.r3.vip.cpolar.cn -> http://localhost:8081                                            
+# Conn              0                                                                                                     
+Avg Conn Time       0.00ms 
